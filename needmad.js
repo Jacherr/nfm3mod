@@ -3470,6 +3470,8 @@ function carselect() {
         // again - it's dumb, disable it, but keep the necessary bits to change car and state
 
         if (flyout == 1) {
+            carmy = -21;
+            carup = -30;
             flyout = 0;
             /*cszy = 0;
             carms += 0.5;
