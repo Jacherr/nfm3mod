@@ -1,3 +1,8 @@
+/*
+    Need for Madness Re-Lit - Copyright (c) 2025 Omar Waly.
+    Modifications by Jacherr (c) 2025 under MIT license (see LICENSE).
+*/
+
 var programInfo = [];
 function newparticle() {
     return {
