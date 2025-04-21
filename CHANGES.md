@@ -1,0 +1,3 @@
+- New stage 1 and accompanying song.
+- Disabled Y movement in car select.
+- Disabled fly in/out effect in car select.
